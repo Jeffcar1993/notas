@@ -1,0 +1,48 @@
+# Next.js
+.next/ 
+out/
+build/  # Si usas 'next build' para producción
+.next/cache/
+*.next
+
+# Node.js
+node_modules/
+.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# Environment variables
+.env*
+!.env.example  # Mantén este para un ejemplo
+
+# Testing
+coverage/
+
+# Debugging
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# System files
+.DS_Store
+
+# VS Code (opcional, pero útil)
+.vscode/
+
+# Firebase config (si no quieres que se suba)
+src/firebase/config.js
+
+# Vercel (si usas Vercel)
+.vercel
+
+# TypeScript (si usas TypeScript)
+*.tsbuildinfo
+next-env.d.ts
+
+# Otros (si los tienes)
+*.pem  # Certificados
