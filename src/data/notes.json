@@ -1,0 +1,39 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Primera nota",
+      "content": "Este es el contenido de la primera nota.",
+      "created_at": "2025-02-11T10:00:00Z",
+      "updated_at": "2025-02-12T03:32:21.128Z"
+    },
+    {
+      "id": 2,
+      "title": "Segunda nota",
+      "content": "Este es el contenido de la segunda nota.",
+      "created_at": "2025-02-10T14:30:00Z",
+      "updated_at": "2025-02-12T03:25:15.093Z"
+    },
+    {
+      "id": 3,
+      "title": "Tercera notita",
+      "content": "Este es el contenido de la tercera nota.",
+      "created_at": "2025-02-09T08:15:00Z",
+      "updated_at": "2025-02-12T03:07:13.456Z"
+    },
+    {
+      "id": 1739303173379,
+      "title": "nueva nota",
+      "content": "Nueva nota desde express",
+      "created_at": "2025-02-11T19:46:13.379Z",
+      "updated_at": "2025-02-11T19:46:13.379Z"
+    },
+    {
+      "id": 1739315561956,
+      "title": "otra nota 2",
+      "content": "nota nueva editada",
+      "created_at": "2025-02-11T23:12:41.956Z",
+      "updated_at": "2025-02-12T03:03:01.372Z"
+    }
+  ]
+}
